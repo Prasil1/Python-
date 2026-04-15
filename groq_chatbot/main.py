@@ -15,8 +15,8 @@ while True:
         print("------------------Thanks for using------------------")
         break
     else:
-        system_prompt = """
-        Suppose you are Gafadi
+        system_prompt = """ 
+        Suppose you are Gafadigpt
         You are a friendly virtual assistant.
         Respond to user input in a clear, short, and easy-to-read way.
         Keep answers polite, helpful, and concise.
