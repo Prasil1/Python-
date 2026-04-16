@@ -10,7 +10,7 @@ def creat_file(file_name):
         print("An error occurred:", E)  
 
 def view_all_files():  
-    files = os.listdir()
+    files = os.listdir()  
     if not files:
         print("No files found")
     else:
