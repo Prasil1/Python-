@@ -62,7 +62,7 @@ def main():
         print("===============================\n")  
         choice = input("Enter your choice (1-6): ")
 
-        match choice:
+        match choice: 
             case "1":  
                 file_name = input("Enter file name to create: ")
                 creat_file(file_name)
