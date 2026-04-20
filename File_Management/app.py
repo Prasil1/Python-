@@ -56,7 +56,7 @@ def main():
         print("1: Create file")
         print("2: View all files")  
         print("3: Delete a file")
-        print("4: Read file")
+        print("4: Read a file")
         print("5: Edit file")  
         print("6: Exit")
         print("===============================\n")  
