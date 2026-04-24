@@ -16,7 +16,7 @@ def view_all_files():
     else:
         print("File list:")  
         print("---------------")  
-        for file in files:
+        for file in files:     
             print(file)  
         print("---------------")  
 
@@ -56,7 +56,7 @@ def main():
         print("1: Create file")
         print("2: View all files")  
         print("3: Delete a file")
-        print("4: Read a file")
+        print("4: Read zfile")
         print("5: Edit file")  
         print("6: Exit")
         print("===============================\n")  
